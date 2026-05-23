@@ -11,6 +11,9 @@ rag/index/
 *.sqlite3
 *.db
 
+dist/
+*.pass1.pdf
+
 .DS_Store
 .idea/
 .vscode/
