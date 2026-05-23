@@ -38,7 +38,29 @@ treating doctor. For inheritance and legal matters, contact the Syariah Court
 of Singapore.
 
 Type your question and press Enter. Type :q to quit, :reset to clear history.
+Walkthroughs:  /walkthrough inheritance-cert
 """
+
+
+WALKTHROUGHS: dict[str, str] = {
+    "inheritance-cert": "rag.walkthroughs.inheritance_certificate",
+    # Future: "burial-booking", "wasiat-drafting"
+}
+
+
+def run_walkthrough(name: str) -> None:
+    import importlib
+
+    target = WALKTHROUGHS.get(name)
+    if not target:
+        available = ", ".join(sorted(WALKTHROUGHS)) or "(none registered)"
+        print(f"Unknown walkthrough: {name}. Available: {available}")
+        return
+    mod = importlib.import_module(target)
+    if not hasattr(mod, "main"):
+        print(f"Walkthrough module {target} has no main()")
+        return
+    mod.main()
 
 
 def read_system_prompt(cfg: dict) -> str:
@@ -178,6 +200,14 @@ def main() -> int:
         if user == ":reset":
             history = []
             print("(history cleared)")
+            continue
+        if user.startswith("/walkthrough"):
+            parts = user.split(maxsplit=1)
+            if len(parts) < 2:
+                available = ", ".join(sorted(WALKTHROUGHS))
+                print(f"Usage: /walkthrough <name>. Available: {available}")
+            else:
+                run_walkthrough(parts[1].strip())
             continue
 
         try:
