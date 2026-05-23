@@ -1,0 +1,26 @@
+embedding:
+  provider: ollama
+  model: nomic-embed-text
+  host: http://localhost:11434
+
+chat:
+  provider: ollama
+  model: gemma3:e4b
+  host: http://localhost:11434
+  temperature: 0.2
+  num_ctx: 8192
+
+chunking:
+  target_tokens: 400
+  overlap_tokens: 50
+  min_chunk_tokens: 80
+
+retrieval:
+  top_k: 5
+  max_context_tokens: 3000
+  min_score: 0.25
+
+paths:
+  corpus_dir: corpus
+  index_dir: rag/index
+  system_prompt: rules/system-prompt.md

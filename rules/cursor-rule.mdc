@@ -1,0 +1,40 @@
+---
+description: SG Muslim Care Companion, repo-wide rules for any Cursor agent working on this codebase.
+alwaysApply: true
+---
+
+# SG Muslim Care Companion
+
+This repo is an anonymous, community-benefit, local-first AI companion for Muslim families in Singapore navigating critical illness, end-of-life, and bereavement. It is published as `ahnrusty/sg-muslim-care-companion`.
+
+## Identity and privacy
+
+- Author identity for commits in this repo: `ahnrusty <ahnrusty@users.noreply.github.com>`. Local git config only. Never touch global git config.
+- Never include real names of any person, real employer names, real internal tool names, internal Slack channels, internal ticket numbers, or hospital ward numbers.
+- Always run `scripts/verify-no-private-refs.sh` before pushing.
+
+## Voice and tone
+
+- Plain calm English. The reader may be in a hospital corridor on their phone.
+- Short paragraphs. Bullet lists for next steps.
+- No em dashes anywhere in `corpus/`, `docs/`, `README.md`, `DISCLAIMER.md`, or `CONTRIBUTING.md`. Use commas or periods.
+- Define Arabic and Malay terms on first use and add them to `corpus/90-glossary/`.
+
+## Corpus content
+
+- Every `corpus/**/*.md` file has YAML front matter with `title`, `tags`, `summary`, and `sources` (at least one source with `name`, `url`, `accessed`, optional `note`).
+- Prefer primary sources on `.gov.sg`, `muis.gov.sg`, `syariahcourt.gov.sg`, mosque websites, AMP, MENDAKI, PERGAS, AIC, NEA, ICA, MOH, and reputable academic or OIC Fiqh Academy publications. Avoid random blog posts.
+- Where qualified scholars disagree, present the mainstream Singapore-MUIS position first, briefly note other respected views, recommend asatizah consultation. Never issue a fatwa.
+- Do not paste long copyrighted material. Summarise in your own words and cite.
+
+## RAG
+
+- Default backend is Ollama on `localhost:11434`. No telemetry. No external API calls on the default path.
+- Embedding model: `nomic-embed-text`. Chat model: `gemma3:e4b`.
+- Index files in `rag/index/` are gitignored. Rebuild with `python rag/build_index.py` after editing corpus.
+
+## Tests
+
+- Run `python -m pytest -q` before committing.
+- `tests/test_no_private_refs.py` is non-negotiable.
+- `tests/test_corpus_integrity.py` enforces front matter and tone (including the no-em-dash rule).
