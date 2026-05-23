@@ -1,0 +1,1206 @@
+{
+  "schema_version": 1,
+  "source": "https://www.muis.gov.sg/community/mosque/mosque-directory/",
+  "verified_date": "2026-05-23",
+  "count": 70,
+  "mosques": [
+    {
+      "name": "Abdul Aleem Siddique",
+      "slug": "abdul-aleem-siddique",
+      "region": "East",
+      "address": "90 Lor K Telok Kurau",
+      "postal": "425723",
+      "phone": "63460153",
+      "email": "mosque@aleemsiddique.org.sg",
+      "website": "http://www.aleemsiddique.org.sg/",
+      "services": [
+        "Barrier-free features"
+      ],
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/abdul-aleem-siddique/",
+      "corpus_path": "corpus/80-directory/mosques/abdul-aleem-siddique.md",
+      "verified_date": "2026-05-23"
+    },
+    {
+      "name": "Abdul Gafoor",
+      "slug": "abdul-gafoor",
+      "region": "South",
+      "address": "41 Dunlop Street",
+      "postal": "209369",
+      "phone": "62954209",
+      "email": "mosque@aleemsiddique.org.sg",
+      "website": null,
+      "services": [],
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/abdul-gafoor/",
+      "corpus_path": "corpus/80-directory/mosques/abdul-gafoor.md",
+      "verified_date": "2026-05-23"
+    },
+    {
+      "name": "Abdul Hamid Kampung Pasiran",
+      "slug": "abdul-hamid-kampung-pasiran",
+      "region": "North",
+      "address": "10 Gentle Road",
+      "postal": "309194",
+      "phone": "62512729",
+      "email": null,
+      "website": null,
+      "services": [],
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/abdul-hamid-kampung-pasiran/",
+      "corpus_path": "corpus/80-directory/mosques/abdul-hamid-kampung-pasiran.md",
+      "verified_date": "2026-05-23"
+    },
+    {
+      "name": "Ahmad",
+      "slug": "ahmad",
+      "region": "West",
+      "address": "2 Lorong Sarhad",
+      "postal": "119173",
+      "phone": "64796442",
+      "email": "info@ahmad.mosque.org.sg",
+      "website": null,
+      "services": [],
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/ahmad/",
+      "corpus_path": "corpus/80-directory/mosques/ahmad.md",
+      "verified_date": "2026-05-23"
+    },
+    {
+      "name": "Ahmad Ibrahim",
+      "slug": "ahmad-ibrahim",
+      "region": "North",
+      "address": "15 Jalan Ulu Seletar",
+      "postal": "769227",
+      "phone": "64540848",
+      "email": "info@ahmadibrahim.mosque.org.sg",
+      "website": null,
+      "services": [
+        "Zakat Collection Centre",
+        "Kindergarten"
+      ],
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/ahmad-ibrahim/",
+      "corpus_path": "corpus/80-directory/mosques/ahmad-ibrahim.md",
+      "verified_date": "2026-05-23"
+    },
+    {
+      "name": "Al-Abdul Razak",
+      "slug": "al-abdul-razak",
+      "region": "East",
+      "address": "30 Jalan Ismail",
+      "postal": "419285",
+      "phone": "68468404",
+      "email": "admin@abdrazak.mosque.org.sg",
+      "website": "http://www.alabdulrazak.com/",
+      "services": [
+        "Zakat Collection Centre"
+      ],
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/al-abdul-razak/",
+      "corpus_path": "corpus/80-directory/mosques/al-abdul-razak.md",
+      "verified_date": "2026-05-23"
+    },
+    {
+      "name": "Al-Abrar",
+      "slug": "al-abrar",
+      "region": "South",
+      "address": "192, Telok Ayer Street",
+      "postal": "068635",
+      "phone": "62206306",
+      "email": null,
+      "website": null,
+      "services": [],
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/al-abrar/",
+      "corpus_path": "corpus/80-directory/mosques/al-abrar.md",
+      "verified_date": "2026-05-23"
+    },
+    {
+      "name": "Al-Amin",
+      "slug": "al-amin",
+      "region": "South",
+      "address": "50, Telok Blangah Way",
+      "postal": "098801",
+      "phone": "62725309",
+      "email": "alamin@alamin.mosque.org.sg",
+      "website": "https://alaminmosque.mimbar.sg/organization/168?p=events",
+      "services": [
+        "Zakat Collection Centre",
+        "Social Development Mosque",
+        "aLIVE Islamic Learning",
+        "Barrier-free features"
+      ],
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/al-amin/",
+      "corpus_path": "corpus/80-directory/mosques/al-amin.md",
+      "verified_date": "2026-05-23"
+    },
+    {
+      "name": "Al-Ansar",
+      "slug": "al-ansar",
+      "region": "East",
+      "address": "155 Bedok North Ave 1",
+      "postal": "469751",
+      "phone": "64492420",
+      "email": "mail@alansar.mosque.sg",
+      "website": "http://alansarmosque.sg",
+      "services": [
+        "Zakat Collection Centre",
+        "Social Development Mosque",
+        "aLIVE Islamic Learning",
+        "Adult Islamic Learning",
+        "Barrier-free features"
+      ],
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/al-ansar/",
+      "corpus_path": "corpus/80-directory/mosques/al-ansar.md",
+      "verified_date": "2026-05-23"
+    },
+    {
+      "name": "Al-Falah",
+      "slug": "al-falah",
+      "region": "South",
+      "address": "22 Bideford Road #01-01",
+      "postal": "229923",
+      "phone": "62353172",
+      "email": "alfalah@alfalah.mosque.org.sg",
+      "website": "http://www.alfalah.org.sg",
+      "services": [
+        "Zakat Collection Centre",
+        "Adult Islamic Learning",
+        "Barrier-free features"
+      ],
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/al-falah/",
+      "corpus_path": "corpus/80-directory/mosques/al-falah.md",
+      "verified_date": "2026-05-23"
+    },
+    {
+      "name": "Al-Firdaus",
+      "slug": "al-firdaus",
+      "region": "West",
+      "address": "11, Jalan Ibadat",
+      "postal": "698955",
+      "phone": "67646334",
+      "email": "alfirdaus@alfirdaus.mosque.org.sg",
+      "website": null,
+      "services": [
+        "aLIVE Islamic Learning"
+      ],
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/al-firdaus/",
+      "corpus_path": "corpus/80-directory/mosques/al-firdaus.md",
+      "verified_date": "2026-05-23"
+    },
+    {
+      "name": "Al-Huda",
+      "slug": "al-huda",
+      "region": "West",
+      "address": "34, Jalan Haji Alias",
+      "postal": "268534",
+      "phone": "64684844",
+      "email": null,
+      "website": "http://www.alhuda.sg/",
+      "services": [],
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/al-huda/",
+      "corpus_path": "corpus/80-directory/mosques/al-huda.md",
+      "verified_date": "2026-05-23"
+    },
+    {
+      "name": "Al-Iman",
+      "slug": "al-iman",
+      "region": "West",
+      "address": "10, Bukit Panjang Ring Road",
+      "postal": "679943",
+      "phone": "67690770",
+      "email": "aliman@aliman.mosque.org.sg",
+      "website": "http://www.alimanmosque.org.sg",
+      "services": [
+        "Zakat Collection Centre",
+        "Social Development Mosque",
+        "aLIVE Islamic Learning",
+        "Adult Islamic Learning",
+        "Barrier-free features"
+      ],
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/al-iman/",
+      "corpus_path": "corpus/80-directory/mosques/al-iman.md",
+      "verified_date": "2026-05-23"
+    },
+    {
+      "name": "Al-Islah",
+      "slug": "al-islah",
+      "region": "East",
+      "address": "30 Punggol Field",
+      "postal": "828812",
+      "phone": "63125194",
+      "email": "info@islah.mosque.org.sg",
+      "website": "https://alislah.sg",
+      "services": [
+        "Zakat Collection Centre",
+        "aLIVE Islamic Learning",
+        "Adult Islamic Learning",
+        "Barrier-free features"
+      ],
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/al-islah/",
+      "corpus_path": "corpus/80-directory/mosques/al-islah.md",
+      "verified_date": "2026-05-23"
+    },
+    {
+      "name": "Al-Istiqamah",
+      "slug": "al-istiqamah",
+      "region": "North",
+      "address": "2, Serangoon North Avenue 2",
+      "postal": "555876",
+      "phone": "62814287",
+      "email": "feedback@alistiqamah.mosque.org.sg",
+      "website": null,
+      "services": [
+        "Zakat Collection Centre",
+        "Social Development Mosque",
+        "aLIVE Islamic Learning",
+        "Adult Islamic Learning",
+        "Barrier-free features"
+      ],
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/al-istiqamah/",
+      "corpus_path": "corpus/80-directory/mosques/al-istiqamah.md",
+      "verified_date": "2026-05-23"
+    },
+    {
+      "name": "Al-Istighfar",
+      "slug": "al-istighfar",
+      "region": "East",
+      "address": "2, Pasir Ris Walk",
+      "postal": "518239",
+      "phone": "65838711",
+      "email": "alistighfar@alistighfar.mosque.org.sg",
+      "website": null,
+      "services": [
+        "Zakat Collection Centre",
+        "Social Development Mosque",
+        "aLIVE Islamic Learning",
+        "Adult Islamic Learning",
+        "Barrier-free features",
+        "Kindergarten"
+      ],
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/al-istighfar/",
+      "corpus_path": "corpus/80-directory/mosques/al-istighfar.md",
+      "verified_date": "2026-05-23"
+    },
+    {
+      "name": "Al-Khair",
+      "slug": "al-khair",
+      "region": "West",
+      "address": "1, Teck Whye Crescent",
+      "postal": "688847",
+      "phone": "67601139",
+      "email": "info@alkhair.mosque.sg",
+      "website": "http://alkhair-mosque.org.sg/",
+      "services": [
+        "Zakat Collection Centre",
+        "Social Development Mosque",
+        "aLIVE Islamic Learning",
+        "Adult Islamic Learning"
+      ],
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/al-khair/",
+      "corpus_path": "corpus/80-directory/mosques/al-khair.md",
+      "verified_date": "2026-05-23"
+    },
+    {
+      "name": "Al-Mawaddah",
+      "slug": "al-mawaddah",
+      "region": "East",
+      "address": "151 Compassvale Bow",
+      "postal": "544997",
+      "phone": "64890224",
+      "email": "info@almawaddah.mosque.org.sg",
+      "website": null,
+      "services": [
+        "Zakat Collection Centre",
+        "Social Development Mosque",
+        "aLIVE Islamic Learning",
+        "Adult Islamic Learning",
+        "Barrier-free features"
+      ],
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/al-mawaddah/",
+      "corpus_path": "corpus/80-directory/mosques/al-mawaddah.md",
+      "verified_date": "2026-05-23"
+    },
+    {
+      "name": "Al-Mukminin",
+      "slug": "al-mukminin",
+      "region": "West",
+      "address": "271, Jurong East Street 21",
+      "postal": "609603",
+      "phone": "65677777",
+      "email": "mosque@almukminin.mosque.sg",
+      "website": "http://almukminin.sg",
+      "services": [
+        "Zakat Collection Centre",
+        "Social Development Mosque",
+        "aLIVE Islamic Learning",
+        "Adult Islamic Learning",
+        "Barrier-free features"
+      ],
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/al-mukminin/",
+      "corpus_path": "corpus/80-directory/mosques/al-mukminin.md",
+      "verified_date": "2026-05-23"
+    },
+    {
+      "name": "Al-Muttaqin",
+      "slug": "al-muttaqin",
+      "region": "North",
+      "address": "5140 Ang Mo Kio Central Avenue 6",
+      "postal": "569844",
+      "phone": "64547472",
+      "email": "info@almuttaqin.mosque.org.sg",
+      "website": "http://www.almuttaqinmosque.sg",
+      "services": [
+        "Zakat Collection Centre",
+        "Social Development Mosque",
+        "aLIVE Islamic Learning",
+        "Adult Islamic Learning",
+        "Barrier-free features",
+        "Kindergarten"
+      ],
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/al-muttaqin/",
+      "corpus_path": "corpus/80-directory/mosques/al-muttaqin.md",
+      "verified_date": "2026-05-23"
+    },
+    {
+      "name": "Al-Taqua",
+      "slug": "al-taqua",
+      "region": "East",
+      "address": "11A, Jalan Bilal Bedok Off Bedok Road",
+      "postal": "468862",
+      "phone": "64427704",
+      "email": "info@altaqua.mosque.org.sg",
+      "website": null,
+      "services": [
+        "Zakat Collection Centre",
+        "aLIVE Islamic Learning"
+      ],
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/al-taqua/",
+      "corpus_path": "corpus/80-directory/mosques/al-taqua.md",
+      "verified_date": "2026-05-23"
+    },
+    {
+      "name": "Alkaff Upper Serangoon",
+      "slug": "alkaff-upper-serangoon",
+      "region": "North",
+      "address": "66, Pheng Geck Avenue",
+      "postal": "348261",
+      "phone": "62800300",
+      "email": "info@alkaffus.sg",
+      "website": null,
+      "services": [
+        "Zakat Collection Centre",
+        "aLIVE Islamic Learning",
+        "Barrier-free features"
+      ],
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/alkaff-upper-serangoon/",
+      "corpus_path": "corpus/80-directory/mosques/alkaff-upper-serangoon.md",
+      "verified_date": "2026-05-23"
+    },
+    {
+      "name": "Alkaff Kampung Melayu",
+      "slug": "alkaff-kampung-melayu",
+      "region": "East",
+      "address": "200, Bedok Reservoir Road",
+      "postal": "479221",
+      "phone": "62427244",
+      "email": "inbox@alkaffkm.mosque.sg",
+      "website": null,
+      "services": [
+        "Zakat Collection Centre",
+        "Social Development Mosque",
+        "aLIVE Islamic Learning"
+      ],
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/alkaff-kampung-melayu/",
+      "corpus_path": "corpus/80-directory/mosques/alkaff-kampung-melayu.md",
+      "verified_date": "2026-05-23"
+    },
+    {
+      "name": "An-Nahdhah",
+      "slug": "an-nahdhah",
+      "region": "North",
+      "address": "9A Bishan Street 14",
+      "postal": "579786",
+      "phone": "63543138",
+      "email": "info@annahdhah.mosque.org.sg",
+      "website": "https://www.annahdhah.org/",
+      "services": [
+        "Zakat Collection Centre",
+        "aLIVE Islamic Learning",
+        "Adult Islamic Learning",
+        "Barrier-free features"
+      ],
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/an-nahdhah/",
+      "corpus_path": "corpus/80-directory/mosques/an-nahdhah.md",
+      "verified_date": "2026-05-23"
+    },
+    {
+      "name": "An-Nur",
+      "slug": "an-nur",
+      "region": "North",
+      "address": "6, Admiralty Road",
+      "postal": "739983",
+      "phone": "63631383",
+      "email": "annur@annur.mosque.org.sg",
+      "website": "http://www.annurmosque.sg/",
+      "services": [
+        "Zakat Collection Centre",
+        "Social Development Mosque",
+        "aLIVE Islamic Learning",
+        "Adult Islamic Learning",
+        "Barrier-free features",
+        "Kindergarten"
+      ],
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/an-nur/",
+      "corpus_path": "corpus/80-directory/mosques/an-nur.md",
+      "verified_date": "2026-05-23"
+    },
+    {
+      "name": "Angullia",
+      "slug": "angullia",
+      "region": "South",
+      "address": "265, Serangoon Road",
+      "postal": "218099",
+      "phone": "62951478",
+      "email": "info@angulliamosque.com.sg",
+      "website": "http://www.angulliamosque.com.sg/",
+      "services": [
+        "Barrier-free features"
+      ],
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/angullia/",
+      "corpus_path": "corpus/80-directory/mosques/angullia.md",
+      "verified_date": "2026-05-23"
+    },
+    {
+      "name": "Ar-Raudhah",
+      "slug": "ar-raudhah",
+      "region": "West",
+      "address": "30, Bukit Batok East Ave 2",
+      "postal": "659919",
+      "phone": "68995840",
+      "email": "arraudhah@arraudhah.mosque.org.sg",
+      "website": "http://www.arraudhahmosque.com/",
+      "services": [
+        "Zakat Collection Centre",
+        "Social Development Mosque",
+        "aLIVE Islamic Learning",
+        "Adult Islamic Learning"
+      ],
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/ar-raudhah/",
+      "corpus_path": "corpus/80-directory/mosques/ar-raudhah.md",
+      "verified_date": "2026-05-23"
+    },
+    {
+      "name": "Assyafaah",
+      "slug": "assyafaah",
+      "region": "North",
+      "address": "1 Admiralty Lane SIngapore 757620",
+      "postal": null,
+      "phone": "67563008",
+      "email": "assyafaah@assyafaah.mosque.org.sg",
+      "website": null,
+      "services": [
+        "Zakat Collection Centre",
+        "Social Development Mosque",
+        "aLIVE Islamic Learning",
+        "Barrier-free features"
+      ],
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/assyafaah/",
+      "corpus_path": "corpus/80-directory/mosques/assyafaah.md",
+      "verified_date": "2026-05-23"
+    },
+    {
+      "name": "Assyakirin",
+      "slug": "assyakirin",
+      "region": "West",
+      "address": "550, Yung An Road",
+      "postal": "618617",
+      "phone": "62681846",
+      "email": "assyakirin@assyakirin.mosque.org.sg",
+      "website": null,
+      "services": [
+        "Zakat Collection Centre",
+        "Social Development Mosque",
+        "aLIVE Islamic Learning",
+        "Adult Islamic Learning",
+        "Barrier-free features"
+      ],
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/assyakirin/",
+      "corpus_path": "corpus/80-directory/mosques/assyakirin.md",
+      "verified_date": "2026-05-23"
+    },
+    {
+      "name": "Ba'alwie",
+      "slug": "ba-alwie",
+      "region": "South",
+      "address": "2, Lewis Road",
+      "postal": "258590",
+      "phone": "67326170",
+      "email": "baalwiemosque@gmail.com",
+      "website": null,
+      "services": [],
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/ba-alwie/",
+      "corpus_path": "corpus/80-directory/mosques/ba-alwie.md",
+      "verified_date": "2026-05-23"
+    },
+    {
+      "name": "Burhani",
+      "slug": "burhani",
+      "region": "South",
+      "address": "39 Hill Street",
+      "postal": "179364",
+      "phone": "62241021",
+      "email": null,
+      "website": null,
+      "services": [],
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/burhani/",
+      "corpus_path": "corpus/80-directory/mosques/burhani.md",
+      "verified_date": "2026-05-23"
+    },
+    {
+      "name": "Bencoolen",
+      "slug": "bencoolen",
+      "region": "South",
+      "address": "51 Bencoolen Street #01-01",
+      "postal": "189630",
+      "phone": "63333016",
+      "email": "masjid@bencoolen.mosque.org.sg",
+      "website": null,
+      "services": [],
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/bencoolen/",
+      "corpus_path": "corpus/80-directory/mosques/bencoolen.md",
+      "verified_date": "2026-05-23"
+    },
+    {
+      "name": "Darul Aman",
+      "slug": "darul-aman",
+      "region": "East",
+      "address": "1, Jalan Eunos",
+      "postal": "419493",
+      "phone": "67445544",
+      "email": "info@darulaman.mosque.org.sg",
+      "website": null,
+      "services": [
+        "Zakat Collection Centre",
+        "Social Development Mosque",
+        "aLIVE Islamic Learning"
+      ],
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/darul-aman/",
+      "corpus_path": "corpus/80-directory/mosques/darul-aman.md",
+      "verified_date": "2026-05-23"
+    },
+    {
+      "name": "Darul Ghufran",
+      "slug": "darul-ghufran",
+      "region": "East",
+      "address": "503, Tampines Avenue 5",
+      "postal": "529651",
+      "phone": "67865545",
+      "email": "helpdesk@ghufran.mosque.org.sg",
+      "website": "http://darulghufran.org",
+      "services": [
+        "Zakat Collection Centre",
+        "Social Development Mosque",
+        "aLIVE Islamic Learning",
+        "Adult Islamic Learning"
+      ],
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/darul-ghufran/",
+      "corpus_path": "corpus/80-directory/mosques/darul-ghufran.md",
+      "verified_date": "2026-05-23"
+    },
+    {
+      "name": "Darul Makmur",
+      "slug": "darul-makmur",
+      "region": "North",
+      "address": "950, Yishun Ave 2",
+      "postal": "769099",
+      "phone": "67521402",
+      "email": "korporat@darulmakmur.mosque.org.sg",
+      "website": "http://www.darulmakmur.sg",
+      "services": [
+        "Zakat Collection Centre",
+        "Social Development Mosque",
+        "aLIVE Islamic Learning",
+        "Adult Islamic Learning",
+        "Kindergarten"
+      ],
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/darul-makmur/",
+      "corpus_path": "corpus/80-directory/mosques/darul-makmur.md",
+      "verified_date": "2026-05-23"
+    },
+    {
+      "name": "Darussalam",
+      "slug": "darussalam",
+      "region": "West",
+      "address": "3002, Commonwealth Avenue West",
+      "postal": "129579",
+      "phone": "67770028",
+      "email": "feedback@darussalam.mosque.org.sg",
+      "website": "https://darussalam.mosque.org.sg/",
+      "services": [
+        "Zakat Collection Centre",
+        "Social Development Mosque",
+        "aLIVE Islamic Learning",
+        "Adult Islamic Learning",
+        "Kindergarten"
+      ],
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/darussalam/",
+      "corpus_path": "corpus/80-directory/mosques/darussalam.md",
+      "verified_date": "2026-05-23"
+    },
+    {
+      "name": "En-Naeem",
+      "slug": "en-naeem",
+      "region": "North",
+      "address": "120 Tampines Road",
+      "postal": "535136",
+      "phone": "69118140",
+      "email": "info@ennaeem.mosque.sg",
+      "website": "https://www.ennaeem.sg/",
+      "services": [
+        "Zakat Collection Centre",
+        "Social Development Mosque",
+        "aLIVE Islamic Learning",
+        "Adult Islamic Learning",
+        "Barrier-free features"
+      ],
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/en-naeem/",
+      "corpus_path": "corpus/80-directory/mosques/en-naeem.md",
+      "verified_date": "2026-05-23"
+    },
+    {
+      "name": "Hang Jebat",
+      "slug": "hang-jebat",
+      "region": "West",
+      "address": "100, Jalan Hang Jebat",
+      "postal": "139533",
+      "phone": "64710728",
+      "email": "admin@hangjebat.mosque.org.sg",
+      "website": null,
+      "services": [
+        "Zakat Collection Centre"
+      ],
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/hang-jebat/",
+      "corpus_path": "corpus/80-directory/mosques/hang-jebat.md",
+      "verified_date": "2026-05-23"
+    },
+    {
+      "name": "Hajjah Fatimah",
+      "slug": "hajjah-fatimah",
+      "region": "South",
+      "address": "4001, Beach Road",
+      "postal": "199584",
+      "phone": "62972774",
+      "email": "marhaba@hjhfatimah.mosque.sg",
+      "website": "https://www.masjidhajjahfatimah.sg/",
+      "services": [],
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/hajjah-fatimah/",
+      "corpus_path": "corpus/80-directory/mosques/hajjah-fatimah.md",
+      "verified_date": "2026-05-23"
+    },
+    {
+      "name": "Hajjah Rahimabi Kebun Limau",
+      "slug": "hajjah-rahimabi-kebun-limau",
+      "region": "North",
+      "address": "76, Kim Keat Road",
+      "postal": "328835",
+      "phone": "62558262",
+      "email": "hjrahimabi@hjrahimabi.mosque.org.sg",
+      "website": null,
+      "services": [
+        "Zakat Collection Centre",
+        "Social Development Mosque",
+        "aLIVE Islamic Learning",
+        "Barrier-free features"
+      ],
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/hajjah-rahimabi-kebun-limau/",
+      "corpus_path": "corpus/80-directory/mosques/hajjah-rahimabi-kebun-limau.md",
+      "verified_date": "2026-05-23"
+    },
+    {
+      "name": "Haji Mohd Salleh (Geylang)",
+      "slug": "haji-mohd-salleh--g",
+      "region": "East",
+      "address": "245 Geylang Road",
+      "postal": "389304",
+      "phone": "68460857",
+      "email": "enquiry@mhms.org.sg",
+      "website": null,
+      "services": [
+        "Zakat Collection Centre",
+        "Social Development Mosque",
+        "aLIVE Islamic Learning",
+        "Barrier-free features"
+      ],
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/haji-mohd-salleh--g/",
+      "corpus_path": "corpus/80-directory/mosques/haji-mohd-salleh--g.md",
+      "verified_date": "2026-05-23"
+    },
+    {
+      "name": "Haji Muhammad Salleh (Palmer)",
+      "slug": "haji-muhammad-salleh--p",
+      "region": "South",
+      "address": "37, Palmer Road",
+      "postal": "079424",
+      "phone": "62209257",
+      "email": "admin@hjmuhdsalleh.org.sg",
+      "website": null,
+      "services": [
+        "Zakat Collection Centre"
+      ],
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/haji-muhammad-salleh--p/",
+      "corpus_path": "corpus/80-directory/mosques/haji-muhammad-salleh--p.md",
+      "verified_date": "2026-05-23"
+    },
+    {
+      "name": "Haji Yusoff",
+      "slug": "haji-yusoff",
+      "region": "North",
+      "address": "2, Hillside Drive Upper Serangoon Road",
+      "postal": "548920",
+      "phone": "62845459",
+      "email": "info@hjyusoff.mosque.org.sg",
+      "website": null,
+      "services": [],
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/haji-yusoff/",
+      "corpus_path": "corpus/80-directory/mosques/haji-yusoff.md",
+      "verified_date": "2026-05-23"
+    },
+    {
+      "name": "Hasanah",
+      "slug": "hasanah",
+      "region": "West",
+      "address": "492, Teban Gardens Road",
+      "postal": "608878",
+      "phone": "65617990",
+      "email": "info@hasanah.mosque.org.sg",
+      "website": "https://www.hasanahmosque.sg",
+      "services": [
+        "Zakat Collection Centre",
+        "aLIVE Islamic Learning",
+        "Barrier-free features"
+      ],
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/hasanah/",
+      "corpus_path": "corpus/80-directory/mosques/hasanah.md",
+      "verified_date": "2026-05-23"
+    },
+    {
+      "name": "Hussain Sulaiman",
+      "slug": "hussain-sulaiman",
+      "region": "West",
+      "address": "394, Pasir Panjang Road",
+      "postal": "118730",
+      "phone": "97597487",
+      "email": "info@hussainsulaiman.mosque.sg",
+      "website": null,
+      "services": [],
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/hussain-sulaiman/",
+      "corpus_path": "corpus/80-directory/mosques/hussain-sulaiman.md",
+      "verified_date": "2026-05-23"
+    },
+    {
+      "name": "Jamae Chulia",
+      "slug": "jamae-chulia",
+      "region": "South",
+      "address": "218, South Bridge Road",
+      "postal": "058767",
+      "phone": "62214165",
+      "email": "masjidjamae@singnet.com.sg",
+      "website": "http://www.masjidjamaechulia.sg/",
+      "services": [],
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/jamae-chulia/",
+      "corpus_path": "corpus/80-directory/mosques/jamae-chulia.md",
+      "verified_date": "2026-05-23"
+    },
+    {
+      "name": "Jamek Queenstown",
+      "slug": "jamek-queenstown",
+      "region": "South",
+      "address": "946, Margaret Drive",
+      "postal": "149309",
+      "phone": "69280442",
+      "email": "queenstownmasjidjamek@gmail.com",
+      "website": "https://masjidjamekqueenstown.mimbar.sg/",
+      "services": [],
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/jamek-queenstown/",
+      "corpus_path": "corpus/80-directory/mosques/jamek-queenstown.md",
+      "verified_date": "2026-05-23"
+    },
+    {
+      "name": "Jamiyah Ar-Rabitah",
+      "slug": "jamiyah-ar-rabitah",
+      "region": "South",
+      "address": "10, Bukit Panjang Ring Road",
+      "postal": "679943",
+      "phone": "67690770",
+      "email": "official@arrabitah.mosque.sg",
+      "website": "https://jamiyaharrabitah.sg/",
+      "services": [
+        "Zakat Collection Centre",
+        "Social Development Mosque",
+        "aLIVE Islamic Learning",
+        "Adult Islamic Learning",
+        "Barrier-free features",
+        "Kindergarten"
+      ],
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/jamiyah-ar-rabitah/",
+      "corpus_path": "corpus/80-directory/mosques/jamiyah-ar-rabitah.md",
+      "verified_date": "2026-05-23"
+    },
+    {
+      "name": "Kampong Delta",
+      "slug": "kampong-delta",
+      "region": "South",
+      "address": "10, Delta Avenue",
+      "postal": "169831",
+      "phone": "62721750",
+      "email": null,
+      "website": null,
+      "services": [
+        "Zakat Collection Centre"
+      ],
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/kampong-delta/",
+      "corpus_path": "corpus/80-directory/mosques/kampong-delta.md",
+      "verified_date": "2026-05-23"
+    },
+    {
+      "name": "Kampung Siglap",
+      "slug": "kampung-siglap",
+      "region": "East",
+      "address": "451, Marine Parade Road",
+      "postal": "449283",
+      "phone": "62437060",
+      "email": "info@mks.org.sg",
+      "website": "http://www.mks.org.sg/",
+      "services": [
+        "Zakat Collection Centre",
+        "Social Development Mosque",
+        "aLIVE Islamic Learning",
+        "Barrier-free features"
+      ],
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/kampung-siglap/",
+      "corpus_path": "corpus/80-directory/mosques/kampung-siglap.md",
+      "verified_date": "2026-05-23"
+    },
+    {
+      "name": "Kassim",
+      "slug": "kassim",
+      "region": "East",
+      "address": "450, Changi Road",
+      "postal": "419877",
+      "phone": "64404742",
+      "email": "kassim@kassim.mosque.org.sg",
+      "website": null,
+      "services": [
+        "Zakat Collection Centre",
+        "Social Development Mosque",
+        "aLIVE Islamic Learning",
+        "Adult Islamic Learning",
+        "Barrier-free features"
+      ],
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/kassim/",
+      "corpus_path": "corpus/80-directory/mosques/kassim.md",
+      "verified_date": "2026-05-23"
+    },
+    {
+      "name": "Khadijah",
+      "slug": "khadijah",
+      "region": "East",
+      "address": "583, Geylang Road",
+      "postal": "389522",
+      "phone": "67475607",
+      "email": "admin@khadijahmosque.org",
+      "website": "http://www.khadijahmosque.org/",
+      "services": [
+        "Barrier-free features"
+      ],
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/khadijah/",
+      "corpus_path": "corpus/80-directory/mosques/khadijah.md",
+      "verified_date": "2026-05-23"
+    },
+    {
+      "name": "Khalid",
+      "slug": "khalid",
+      "region": "East",
+      "address": "130, Joo Chiat Road",
+      "postal": "427727",
+      "phone": "63452884",
+      "email": "admin@masjidkhalid.sg",
+      "website": "https://masjidkhalid.org/",
+      "services": [
+        "Zakat Collection Centre"
+      ],
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/khalid/",
+      "corpus_path": "corpus/80-directory/mosques/khalid.md",
+      "verified_date": "2026-05-23"
+    },
+    {
+      "name": "Maarof",
+      "slug": "maarof",
+      "region": "West",
+      "address": "20 Jurong West Street 26",
+      "postal": "648125",
+      "phone": "65155033",
+      "email": "info1@maarof.mosque.sg",
+      "website": "https://masjidmaarof.sg/",
+      "services": [
+        "Zakat Collection Centre",
+        "Social Development Mosque",
+        "aLIVE Islamic Learning",
+        "Adult Islamic Learning",
+        "Barrier-free features"
+      ],
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/maarof/",
+      "corpus_path": "corpus/80-directory/mosques/maarof.md",
+      "verified_date": "2026-05-23"
+    },
+    {
+      "name": "Malabar",
+      "slug": "malabar",
+      "region": "South",
+      "address": "471, Victoria Street",
+      "postal": "198370",
+      "phone": "62943862",
+      "email": "admin@malabar.org.sg",
+      "website": null,
+      "services": [],
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/malabar/",
+      "corpus_path": "corpus/80-directory/mosques/malabar.md",
+      "verified_date": "2026-05-23"
+    },
+    {
+      "name": "Moulana Mohd Ali",
+      "slug": "moulana-mohd-ali",
+      "region": "South",
+      "address": "UOB Plaza 80, Raffles Place, #B1-01",
+      "postal": "048624",
+      "phone": "65365238",
+      "email": "masjidmoulana@singnet.com.sg",
+      "website": null,
+      "services": [],
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/moulana-mohd-ali/",
+      "corpus_path": "corpus/80-directory/mosques/moulana-mohd-ali.md",
+      "verified_date": "2026-05-23"
+    },
+    {
+      "name": "Muhajirin",
+      "slug": "muhajirin",
+      "region": "North",
+      "address": "275 Braddell Road",
+      "postal": "579704",
+      "phone": "62561166",
+      "email": "info@muhajirin.mosque.sg",
+      "website": null,
+      "services": [
+        "Zakat Collection Centre",
+        "Social Development Mosque",
+        "Barrier-free features"
+      ],
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/muhajirin/",
+      "corpus_path": "corpus/80-directory/mosques/muhajirin.md",
+      "verified_date": "2026-05-23"
+    },
+    {
+      "name": "Mujahidin",
+      "slug": "mujahidin",
+      "region": "South",
+      "address": "590, Stirling Road",
+      "postal": "148952",
+      "phone": "64737400",
+      "email": "info@mujahidin.mosque.org.sg",
+      "website": "https://mujahidinmosque.sg/",
+      "services": [
+        "Zakat Collection Centre",
+        "Social Development Mosque",
+        "aLIVE Islamic Learning",
+        "Barrier-free features",
+        "Kindergarten"
+      ],
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/mujahidin/",
+      "corpus_path": "corpus/80-directory/mosques/mujahidin.md",
+      "verified_date": "2026-05-23"
+    },
+    {
+      "name": "Mydin",
+      "slug": "mydin",
+      "region": "East",
+      "address": "67, Jalan Lapang",
+      "postal": "419007",
+      "phone": "62432129",
+      "email": "masjidmydin@mydin.mosque.org.sg",
+      "website": null,
+      "services": [
+        "Zakat Collection Centre"
+      ],
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/mydin/",
+      "corpus_path": "corpus/80-directory/mosques/mydin.md",
+      "verified_date": "2026-05-23"
+    },
+    {
+      "name": "Omar Kampong Melaka",
+      "slug": "omar-kampong-melaka",
+      "region": "South",
+      "address": "10, Keng Cheow Street",
+      "postal": "059607",
+      "phone": "65326764",
+      "email": "masjidomar@kgmelaka.mosque.org.sg",
+      "website": null,
+      "services": [
+        "Zakat Collection Centre",
+        "Social Development Mosque"
+      ],
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/omar-kampong-melaka/",
+      "corpus_path": "corpus/80-directory/mosques/omar-kampong-melaka.md",
+      "verified_date": "2026-05-23"
+    },
+    {
+      "name": "Omar Salmah",
+      "slug": "omar-salmah",
+      "region": "North",
+      "address": "441B, Jalan Mashhor",
+      "postal": "299173",
+      "phone": "62500120",
+      "email": "info@omarsalmahmosque.com",
+      "website": null,
+      "services": [],
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/omar-salmah/",
+      "corpus_path": "corpus/80-directory/mosques/omar-salmah.md",
+      "verified_date": "2026-05-23"
+    },
+    {
+      "name": "Petempatan Melayu Sembawang",
+      "slug": "petempatan-melayu-sembawang",
+      "region": "North",
+      "address": "27-B, Jalan Mempurong",
+      "postal": "759055",
+      "phone": "62577614",
+      "email": "petempatan@gmail.com",
+      "website": null,
+      "services": [
+        "Zakat Collection Centre"
+      ],
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/petempatan-melayu-sembawang/",
+      "corpus_path": "corpus/80-directory/mosques/petempatan-melayu-sembawang.md",
+      "verified_date": "2026-05-23"
+    },
+    {
+      "name": "Pusara Aman",
+      "slug": "pusara-aman",
+      "region": "West",
+      "address": "11, Lim Chu Kang Road Muslim Cemetery",
+      "postal": "719452",
+      "phone": "67929378",
+      "email": "info@pusaraman.mosque.org.sg",
+      "website": null,
+      "services": [],
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/pusara-aman/",
+      "corpus_path": "corpus/80-directory/mosques/pusara-aman.md",
+      "verified_date": "2026-05-23"
+    },
+    {
+      "name": "Sallim Mattar",
+      "slug": "sallim-mattar",
+      "region": "East",
+      "address": "No 1 Mattar Road",
+      "postal": "387725",
+      "phone": "67492382",
+      "email": "info@sallimmattar.mosque.org.sg",
+      "website": null,
+      "services": [
+        "Zakat Collection Centre",
+        "Social Development Mosque",
+        "aLIVE Islamic Learning",
+        "Barrier-free features"
+      ],
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/sallim-mattar/",
+      "corpus_path": "corpus/80-directory/mosques/sallim-mattar.md",
+      "verified_date": "2026-05-23"
+    },
+    {
+      "name": "Sultan",
+      "slug": "sultan",
+      "region": "South",
+      "address": "3, Muscat Street",
+      "postal": "198833",
+      "phone": "62934405",
+      "email": "info@sultan.mosque.org.sg",
+      "website": "http://sultanmosque.sg/",
+      "services": [
+        "Zakat Collection Centre",
+        "Social Development Mosque",
+        "Barrier-free features"
+      ],
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/sultan/",
+      "corpus_path": "corpus/80-directory/mosques/sultan.md",
+      "verified_date": "2026-05-23"
+    },
+    {
+      "name": "Tasek Utara",
+      "slug": "tasek-utara",
+      "region": "South",
+      "address": "46, Bristol Road",
+      "postal": "219852",
+      "phone": "62938351",
+      "email": null,
+      "website": null,
+      "services": [],
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/tasek-utara/",
+      "corpus_path": "corpus/80-directory/mosques/tasek-utara.md",
+      "verified_date": "2026-05-23"
+    },
+    {
+      "name": "Temenggong",
+      "slug": "temenggong",
+      "region": "South",
+      "address": null,
+      "postal": null,
+      "phone": null,
+      "email": null,
+      "website": null,
+      "services": [],
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/temenggong/",
+      "corpus_path": "corpus/80-directory/mosques/temenggong.md",
+      "verified_date": "2026-05-23"
+    },
+    {
+      "name": "Tentera Di Raja",
+      "slug": "tentera-di-raja",
+      "region": "West",
+      "address": "81, Clementi Road",
+      "postal": "129797",
+      "phone": "67765612",
+      "email": "info@tentera.mosque.org.sg",
+      "website": "http://tenteradiraja.sg/",
+      "services": [],
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/tentera-di-raja/",
+      "corpus_path": "corpus/80-directory/mosques/tentera-di-raja.md",
+      "verified_date": "2026-05-23"
+    },
+    {
+      "name": "Wak Tanjong",
+      "slug": "wak-tanjong",
+      "region": "East",
+      "address": "25 Paya Lebar Rd",
+      "postal": "409004",
+      "phone": "67472743",
+      "email": "enquiry@waktanjong.org",
+      "website": "https://www.waktanjong.org",
+      "services": [],
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/wak-tanjong/",
+      "corpus_path": "corpus/80-directory/mosques/wak-tanjong.md",
+      "verified_date": "2026-05-23"
+    },
+    {
+      "name": "Yusof Ishak",
+      "slug": "yusof-ishak",
+      "region": "North",
+      "address": "10 Woodlands Drive 17",
+      "postal": "737740",
+      "phone": "68930093",
+      "email": "contact@yusofishak.mosque.sg",
+      "website": "http://masjidyusofishak.sg/",
+      "services": [
+        "aLIVE Islamic Learning",
+        "Adult Islamic Learning",
+        "Barrier-free features"
+      ],
+      "muis_url": "https://www.muis.gov.sg/community/mosque/mosque-directory/yusof-ishak/",
+      "corpus_path": "corpus/80-directory/mosques/yusof-ishak.md",
+      "verified_date": "2026-05-23"
+    }
+  ]
+}

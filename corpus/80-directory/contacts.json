@@ -1,0 +1,105 @@
+{
+  "schema_version": 1,
+  "verified_date": "2026-05-23",
+  "disclaimer": "Verify before calling. These numbers change. Sourced from public pages cited per entry.",
+  "categories": [
+    {
+      "name": "Emergency and crisis",
+      "entries": [
+        {"service": "Ambulance / Fire", "phone": "995", "website": "https://www.scdf.gov.sg/", "source_url": "https://www.scdf.gov.sg/", "verified_date": "2026-05-23", "notes": "National emergency number."},
+        {"service": "Police", "phone": "999", "website": "https://www.police.gov.sg/", "source_url": "https://www.police.gov.sg/", "verified_date": "2026-05-23", "notes": "National emergency number."},
+        {"service": "Samaritans of Singapore (SOS)", "phone": "1767", "website": "https://www.sos.org.sg/", "source_url": "https://www.sos.org.sg/", "verified_date": "2026-05-23", "notes": "24-hour suicide prevention and crisis line."},
+        {"service": "National Mindline", "phone": "1771", "website": "https://mindline.sg/fsmh", "source_url": "https://www.moh.gov.sg/newsroom/national-mindline-1771-to-provide--round-the-clock-support-for-mental-health/", "verified_date": "2026-05-23", "notes": "24-hour national mental health helpline. WhatsApp 6669 1771."}
+      ]
+    },
+    {
+      "name": "Islamic religious coordination",
+      "entries": [
+        {"service": "MUIS mainline", "phone": "6359 1199", "website": "https://www.muis.gov.sg/contact-us/", "source_url": "https://www.muis.gov.sg/contact-us/", "verified_date": "2026-05-23", "notes": "Mon to Fri 8:30am to 5:30pm; closed 12:30pm to 2:30pm on Fri."},
+        {"service": "MUIS Office of the Mufti", "phone": null, "website": "https://www.muis.gov.sg/officeofthemufti", "source_url": "https://www.muis.gov.sg/officeofthemufti", "verified_date": "2026-05-23", "notes": "For fatwa, irsyad, and religious rulings."},
+        {"service": "MUIS Tabung Amil and zakat assistance", "phone": "6359 1199", "website": "https://zakat.sg/", "source_url": "https://zakat.sg/", "verified_date": "2026-05-23", "notes": "Applications in person only at a Social Development Mosque."},
+        {"service": "MUIS Islamic Legacy Planning", "phone": null, "website": "https://www.muis.gov.sg/get-help/islamic-legacy-planning/", "source_url": "https://www.muis.gov.sg/get-help/islamic-legacy-planning/", "verified_date": "2026-05-23", "notes": "Hub for wasiat, faraid, home ownership, CPF nominations."}
+      ]
+    },
+    {
+      "name": "Burial booking and cemetery",
+      "entries": [
+        {"service": "NEA Choa Chu Kang Cemetery Office", "phone": "6225 5632", "website": "https://www.nea.gov.sg/our-services/after-death/choa-chu-kang-cemetery", "source_url": "https://www.nea.gov.sg/our-services/after-death/choa-chu-kang-cemetery", "verified_date": "2026-05-23", "notes": "Mon to Sun 8:30am to 4:30pm; closed 1pm to 2pm. 940 Old Choa Chu Kang Road S 698910."},
+        {"service": "NEA ePortal, Permit to Bury", "phone": null, "website": "https://www.eportal.nea.gov.sg/", "source_url": "https://www.eportal.nea.gov.sg/", "verified_date": "2026-05-23", "notes": "Free Permit to Bury application."},
+        {"service": "NEA Port Health (repatriation)", "phone": "6222 2585", "website": "https://www.nea.gov.sg/our-services/after-death/post-death-matters/when-death-occurs/overseas", "source_url": "https://www.nea.gov.sg/our-services/after-death/post-death-matters/when-death-occurs/overseas", "verified_date": "2026-05-23", "notes": "4545 Jalan Bukit Merah. Coffin Import Permit fee $17.50."},
+        {"service": "Masjid Pusara Aman", "phone": "6792 9378", "website": "https://www.masjidpusaraaman.com/", "source_url": "https://www.masjidpusaraaman.com/about", "verified_date": "2026-05-23", "notes": "Licensed on-site funeral parlour, free for the community. 11 Lim Chu Kang Road S 719452."},
+        {"service": "Pusara.sg exhumation portal", "phone": null, "website": "https://www.pusara.sg/", "source_url": "https://www.pusara.sg/", "verified_date": "2026-05-23", "notes": "Phase 10 (2001 to 2009 graves) and ongoing updates."}
+      ]
+    },
+    {
+      "name": "Death registration",
+      "entries": [
+        {"service": "ICA / My Legacy assistance hotline", "phone": "6589 8707", "website": "https://www.ica.gov.sg/documents/death/death_registration", "source_url": "https://www.ica.gov.sg/documents/death/death_registration", "verified_date": "2026-05-23", "notes": "24-hour assistance."},
+        {"service": "My Legacy portal", "phone": null, "website": "https://mylegacy.life.gov.sg/", "source_url": "https://mylegacy.life.gov.sg/", "verified_date": "2026-05-23", "notes": "Digital death certificate download within 30 days, free."},
+        {"service": "ICA report overseas death", "phone": null, "website": "https://go.gov.sg/ica-report-overseas-death", "source_url": "https://www.nea.gov.sg/our-services/after-death/post-death-matters/when-death-occurs/overseas", "verified_date": "2026-05-23", "notes": "For Singapore citizens dying abroad."}
+      ]
+    },
+    {
+      "name": "Public hospitals (general enquiry)",
+      "entries": [
+        {"service": "National University Hospital (NUH)", "phone": "6779 5555", "website": "https://www.nuh.com.sg/", "source_url": "https://www.nuh.com.sg/contact", "verified_date": "2026-05-23", "notes": "General enquiry only."},
+        {"service": "Tan Tock Seng Hospital (TTSH)", "phone": "6256 6011", "website": "https://www.ttsh.com.sg/", "source_url": "https://www.ttsh.com.sg/Patients-and-Visitors/General-Information", "verified_date": "2026-05-23", "notes": "General enquiry only."},
+        {"service": "Singapore General Hospital (SGH)", "phone": "6222 3322", "website": "https://www.sgh.com.sg/", "source_url": "https://www.sgh.com.sg/", "verified_date": "2026-05-23", "notes": "General enquiry only."},
+        {"service": "Khoo Teck Puat Hospital (KTPH)", "phone": "6555 8000", "website": "https://www.ktph.com.sg/", "source_url": "https://www.ktph.com.sg/", "verified_date": "2026-05-23", "notes": "General enquiry only."},
+        {"service": "Changi General Hospital (CGH)", "phone": "6788 8833", "website": "https://www.cgh.com.sg/", "source_url": "https://www.cgh.com.sg/", "verified_date": "2026-05-23", "notes": "General enquiry only."},
+        {"service": "Ng Teng Fong General Hospital (NTFGH)", "phone": "6716 2000", "website": "https://www.ntfgh.com.sg/", "source_url": "https://www.ntfgh.com.sg/", "verified_date": "2026-05-23", "notes": "General enquiry only."},
+        {"service": "Sengkang General Hospital (SKH)", "phone": "6930 6000", "website": "https://www.skh.com.sg/", "source_url": "https://www.skh.com.sg/", "verified_date": "2026-05-23", "notes": "General enquiry only."},
+        {"service": "KK Women's and Children's Hospital (KKH)", "phone": "6225 5554", "website": "https://www.kkh.com.sg/", "source_url": "https://www.kkh.com.sg/", "verified_date": "2026-05-23", "notes": "General enquiry only."},
+        {"service": "Alexandra Hospital (AH)", "phone": "6908 2222", "website": "https://www.ah.com.sg/", "source_url": "https://www.ah.com.sg/", "verified_date": "2026-05-23", "notes": "General enquiry only."}
+      ]
+    },
+    {
+      "name": "Caregiving and community support",
+      "entries": [
+        {"service": "Agency for Integrated Care (AIC)", "phone": "1800 650 6060", "website": "https://www.aic.sg/", "source_url": "https://www.aic.sg/", "verified_date": "2026-05-23", "notes": "Mon to Fri 8:30am to 8:30pm, Sat 8:30am to 4pm."},
+        {"service": "AIC, When Death Occurs", "phone": null, "website": "https://www.aic.sg/Caregiving-Support/When-Death-Occurs", "source_url": "https://www.aic.sg/Caregiving-Support/When-Death-Occurs", "verified_date": "2026-05-23", "notes": "Grief support service directory."},
+        {"service": "AMP Helpline", "phone": "6416 3960", "website": "https://amp.org.sg/service/amp-helpline/", "source_url": "https://amp.org.sg/service/amp-helpline/", "verified_date": "2026-05-23", "notes": "Mon to Fri 10am to 5pm. Alt: 6416 3961."},
+        {"service": "MENDAKI", "phone": null, "website": "https://my.mendaki.org.sg/", "source_url": "https://my.mendaki.org.sg/", "verified_date": "2026-05-23", "notes": "Education assistance for dependants."},
+        {"service": "PERGAS", "phone": null, "website": "https://www.pergas.org.sg/", "source_url": "https://www.pergas.org.sg/", "verified_date": "2026-05-23", "notes": "Asatizah Solace Care support."}
+      ]
+    },
+    {
+      "name": "Mental health",
+      "entries": [
+        {"service": "Club HEAL", "phone": "6899 3463", "website": "https://clubheal.org.sg/", "source_url": "https://clubheal.org.sg/", "verified_date": "2026-05-23", "notes": "Muslim-focused mental wellness. Mon to Fri 9am to 5pm."},
+        {"service": "SAMH", "phone": "1800 283 7019", "website": "https://www.samhealth.org.sg/", "source_url": "https://www.samhealth.org.sg/", "verified_date": "2026-05-23", "notes": "Mon to Sat 9am to 5pm."},
+        {"service": "Silver Ribbon Singapore", "phone": "6386 1928", "website": "https://www.silverribbonsingapore.com/", "source_url": "https://www.silverribbonsingapore.com/", "verified_date": "2026-05-23", "notes": "Counselling and emotional support."},
+        {"service": "Institute of Mental Health (IMH)", "phone": "6389 2000", "website": "https://www.imh.com.sg/", "source_url": "https://www.imh.com.sg/", "verified_date": "2026-05-23", "notes": "General enquiries. The standalone IMH mental health helpline 6389 2222 was retired in Jun 2025; use 1771 instead."}
+      ]
+    },
+    {
+      "name": "Inheritance and Syariah Court",
+      "entries": [
+        {"service": "Syariah Court Singapore", "phone": "6354 8371", "website": "https://www.syariahcourt.gov.sg/", "source_url": "https://www.syariahcourt.gov.sg/contact-us", "verified_date": "2026-05-23", "notes": "Mon to Fri 8:30am to 5pm. 1 Havelock Square Singapore 059724."},
+        {"service": "Syariah Court Inheritance Certificate", "phone": null, "website": "https://syariahcourt.gov.sg/Inheritance/Process/Application-for-Inheritance-Certificate", "source_url": "https://syariahcourt.gov.sg/Inheritance/Process/Application-for-Inheritance-Certificate", "verified_date": "2026-05-23", "notes": "$34 fee, 7-day processing, 60-day validity."},
+        {"service": "Syariah Court inheritance email", "phone": null, "email": "inheritance@syariahcourt.gov.sg", "website": "https://www.syariahcourt.gov.sg/contact-us", "source_url": "https://www.syariahcourt.gov.sg/contact-us", "verified_date": "2026-05-23", "notes": "Inheritance certificate enquiries."},
+        {"service": "Family Justice Courts", "phone": "6435 5077", "website": "https://www.judiciary.gov.sg/family-justice-courts", "source_url": "https://www.judiciary.gov.sg/family-justice-courts", "verified_date": "2026-05-23", "notes": "For Grant of Probate and Letters of Administration."}
+      ]
+    },
+    {
+      "name": "Muslim funeral service providers",
+      "entries": [
+        {"service": "Singapore Casket (general, non-denominational)", "phone": "6293 4388", "website": "https://www.singaporecasket.com.sg/", "source_url": "https://www.singaporecasket.com.sg/", "verified_date": "2026-05-23", "notes": "24-hour line. Ask for the Muslim funeral package."},
+        {"service": "Ihsan Casket", "phone": null, "website": "https://ihsancasket.com/", "source_url": "https://ihsancasket.com/muslim-funerals/", "verified_date": "2026-05-23", "notes": "24-hour line on website; all-in packages from around $1,400 excl NEA $315 fee."},
+        {"service": "Singapore Muslim Casket and Marble Contractor", "phone": null, "website": "https://muslimcasket.com.sg/", "source_url": "https://muslimcasket.com.sg/burial-adult/", "verified_date": "2026-05-23", "notes": "Long-established Muslim funeral provider."},
+        {"service": "Takdir Pengurusan Jenazah", "phone": null, "website": "https://takdir.com.sg/", "source_url": "https://takdir.com.sg/", "verified_date": "2026-05-23", "notes": "Complete funeral management since 2005."},
+        {"service": "Jasa Budi Muslim Casket Services", "phone": null, "website": "https://www.jasabudimuslimcasket.com.sg/", "source_url": "https://www.jasabudimuslimcasket.com.sg/", "verified_date": "2026-05-23", "notes": "Muslim burial and repatriation."},
+        {"service": "Mas Services (Al-Ikhlas)", "phone": null, "website": "https://masservicessg.com/", "source_url": "https://masservicessg.com/about-us", "verified_date": "2026-05-23", "notes": "Also runs community pengurus jenazah courses."},
+        {"service": "NCID list of infection-control-qualified providers", "phone": null, "website": "https://www.ncid.sg/For-General-Public/Documents/LIST-OF-BASIC-INFECTION-CONTROL-COURSE-QUALIFIED-FUNERAL-SERVICES-PROVIDERS.pdf", "source_url": "https://www.ncid.sg/For-General-Public/Documents/LIST-OF-BASIC-INFECTION-CONTROL-COURSE-QUALIFIED-FUNERAL-SERVICES-PROVIDERS.pdf", "verified_date": "2026-05-23", "notes": "National Centre for Infectious Diseases provider list (Sep 2025 update)."}
+      ]
+    },
+    {
+      "name": "Legal help",
+      "entries": [
+        {"service": "Law Society of Singapore", "phone": "6538 2500", "website": "https://www.lawsociety.org.sg/", "source_url": "https://www.lawsociety.org.sg/", "verified_date": "2026-05-23", "notes": "Find a Lawyer directory, filter by Muslim law / probate."},
+        {"service": "Community Justice Centre", "phone": "6557 4100", "website": "https://www.cjc.org.sg/", "source_url": "https://www.cjc.org.sg/", "verified_date": "2026-05-23", "notes": "Pro bono and self-represented litigant support."},
+        {"service": "Legal Aid Bureau", "phone": "1800 325 1424", "website": "https://www.mlaw.gov.sg/lab/", "source_url": "https://www.mlaw.gov.sg/lab/", "verified_date": "2026-05-23", "notes": "Means-tested civil legal aid."}
+      ]
+    }
+  ]
+}
