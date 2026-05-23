@@ -16,7 +16,6 @@ FORBIDDEN=(
   "ndex"
   "TSOS"
   "N-Tech"
-  "Friday"
   "ASYLLA"
   "JARVIS"
   "Stride"

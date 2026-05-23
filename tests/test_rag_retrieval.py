@@ -58,6 +58,25 @@ GOLDEN = [
             "corpus/20-imminent-death/talqin.md",
         ],
     },
+    {
+        "q": "How do I apply for a Syariah inheritance certificate?",
+        "expected_any": [
+            "corpus/60-inheritance/syariah-court-inheritance-certificate.md",
+        ],
+    },
+    {
+        "q": "Phone number for Pusara Aman mosque?",
+        "expected_any": [
+            "corpus/80-directory/mosques/pusara-aman.md",
+            "corpus/80-directory/contacts.md",
+        ],
+    },
+    {
+        "q": "Where is Masjid Sultan?",
+        "expected_any": [
+            "corpus/80-directory/mosques/sultan.md",
+        ],
+    },
 ]
 
 

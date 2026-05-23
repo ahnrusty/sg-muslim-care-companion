@@ -1,5 +1,7 @@
 # SG Muslim Care Companion
 
+**Version: v0.2.0**
+
 A local-first AI companion for Muslim families in Singapore navigating critical illness, end-of-life, and bereavement.
 
 This is a community-benefit, anonymous open source project. It is built for the moments when a family is exhausted, grieving, and trying to figure out what to do next in a hospital corridor, at a bedside, or at a mosque office. It will not replace your asatizah, your doctor, or your Syariah lawyer. It will help you ask the right questions and find the right people, faster.
@@ -21,6 +23,33 @@ The companion uses a small local knowledge base of markdown files in `corpus/`. 
 By default it runs entirely on your laptop using [Ollama](https://ollama.com). No data leaves your machine.
 
 If you prefer, you can point it at any OpenAI-compatible endpoint by setting `OPENAI_BASE_URL` and `OPENAI_API_KEY`.
+
+## Download the booklet
+
+A printable bereavement booklet compiled from the entire corpus is available as a single A5 PDF.
+
+- Download from the repo: [`docs/booklet/sg-muslim-care-companion-booklet.pdf`](docs/booklet/sg-muslim-care-companion-booklet.pdf)
+- Build it locally: `pip install -r requirements-pdf.txt && python scripts/export_pdf.py`
+- See [`docs/booklet/README.md`](docs/booklet/README.md) for details.
+
+## Walkthroughs
+
+Interactive process walkthroughs help you build a tailored checklist for common bereavement tasks.
+
+| Walkthrough | Command | What it covers |
+|-------------|---------|----------------|
+| `inheritance-cert` | `python rag/walkthroughs/inheritance_certificate.py` or `/walkthrough inheritance-cert` inside `python rag/chat.py` | Syariah Court Inheritance Certificate documents, fees, timeline, overseas and minor beneficiaries. |
+| `burial-booking` | (planned) | NEA Permit to Bury and Choa Chu Kang slot booking. |
+| `wasiat-drafting` | (planned) | Wasiat preparation under AMLA. |
+
+## Directory and contacts
+
+- `python rag/directory.py --list` to list all MUIS mosques.
+- `python rag/directory.py --mosque "Sultan"` to look up a mosque by name or slug.
+- `python rag/directory.py --postal 198833` for a best-effort postal-code-prefix lookup.
+- `python rag/directory.py --contacts` for the consolidated bereavement contact list.
+
+Machine-readable copies: [`corpus/80-directory/mosques.json`](corpus/80-directory/mosques.json) and [`corpus/80-directory/contacts.json`](corpus/80-directory/contacts.json).
 
 ## Quick start
 

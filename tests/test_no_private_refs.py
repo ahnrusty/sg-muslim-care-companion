@@ -3,6 +3,10 @@
 This protects the public anonymous nature of the project. Fails fast if any
 of the listed substrings appear, except in this test file, the scrub script,
 and the rules files that name them as forbidden.
+
+Note: "Friday" was removed from this list in v0.2.0 because the corpus
+legitimately discusses Friday prayers (Jumah) throughout. The remaining
+identifiers provide adequate protection without false positives.
 """
 
 from __future__ import annotations
@@ -23,7 +27,6 @@ FORBIDDEN = [
     "ndex",
     "TSOS",
     "N-Tech",
-    "Friday",
     "ASYLLA",
     "JARVIS",
     "Stride",

@@ -20,7 +20,11 @@ CORPUS = REPO_ROOT / "corpus"
 
 
 def corpus_files() -> list[Path]:
-    return sorted(p for p in CORPUS.rglob("*.md"))
+    # Skip the per-mosque directory subtree from this test; it is covered
+    # by tests/test_directory_integrity.py with its own (simpler) schema.
+    return sorted(
+        p for p in CORPUS.rglob("*.md") if "80-directory/mosques/" not in p.as_posix()
+    )
 
 
 def parse_front_matter(text: str) -> tuple[dict, str]:
